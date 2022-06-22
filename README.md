@@ -18,4 +18,4 @@ Goals dari projek ini adalah dapat memprediksi nilai ['y'] dari data test.
 5. Panggil fungsi. 
 
 ## 👀 WARNING 
-Terdapat kesalahan dan masih banyak kekurangan pada bagian ####Evaluasi. 
+Terdapat kesalahan dan masih banyak kekurangan pada bagian Evaluasi. 

@@ -2,8 +2,8 @@
 
 ## Table of Contents : 
 * [Pembacaan Data latih dan Data Uji](#pembacaan-data-latih-dan-data-uji)
-* [Pengujian Data] (#pengujian-data)
-* [Evaluasi] (#evaluasi)
+* [Pengujian Data](#pengujian-data)
+* [Evaluasi](#evaluasi)
 
 ## General Info : 
 Projek ini ditujukan sebagai salah satu tugas dalam mata kuliah Introduction of Artificial Intelligence. 
